@@ -28,5 +28,3 @@ If you want to use the matlab version of the evaluation code, you can find at: h
 ## Evaluation of RGBP Glass dataset
 We use the same evaluation code as PGSNet, you can find at: https://github.com/Mhaiyang/CVPR2022_PGSNet/tree/main/eval.
 
-
-The complete code will be uploaded within two weeks after the manuscript is accepted.

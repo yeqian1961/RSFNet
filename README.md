@@ -1,5 +1,5 @@
 # RSFNet
-Reliability-Aware Structural Feedback for RGB-Polarization Camouflaged Object Detection
+Polarization-based Camouflaged Object Detection with Reliability-Aware Structural Feedback
 
 
 # Dataset 

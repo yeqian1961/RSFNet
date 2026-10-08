@@ -6,7 +6,7 @@ import random
 sys.path.append('./models')
 import numpy as np
 from datetime import datetime
-from models.net import PRNet
+from models.net import RSFNet
 from data_utils.data_pcod_ip1ch_edge import get_loader, test_dataset
 from data_utils.utils import clip_gradient, adjust_lr, AvgMeter
 import logging
@@ -166,7 +166,7 @@ if __name__ == '__main__':
         datefmt='%Y-%m-%d %I:%M:%S %p'
     )
 
-    model = PRNet().cuda()
+    model = RSFNet().cuda()
     if opt.load is not None:
         model.load_pre(opt.load)
     num_parms = sum(p.numel() for p in model.parameters())

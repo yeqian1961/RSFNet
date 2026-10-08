@@ -14,6 +14,9 @@ The training dataset (COD10K-train) which can be found on [https://drive.google.
 ## RGBP Glass dataset:
 You can find on: http://rgbpglass.dluticcd.com/.
 
+# Trained Model
+You can download the trained datasets model at: https://pan.baidu.com/s/1-fCWlze0MbzzbG4DhYJJgA?pwd=dt2r.
+
 # Results
 The result maps can be found on: https://pan.baidu.com/s/16oedTDrmuF9xoV3HgnBPaA?pwd=gen2.
 
